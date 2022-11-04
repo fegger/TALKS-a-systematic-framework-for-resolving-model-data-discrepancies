@@ -1,0 +1,9 @@
+﻿ratoon_no,treatment,cropcycle,yrOfHarvest,variable,dataSource,value,type
+0,T1,1,2010,DIN in runoff,Measured,7.214825,Initial data
+0,T2,1,2010,DIN in runoff,Measured,7.325464,Initial data
+0,T1,1,2010,DIN in runoff,Simulated,13.419,Initial data
+0,T2,1,2010,DIN in runoff,Simulated,9.305,Initial data
+0,T1,1,2010,DIN in runoff,Measured,14.364825,Corrected data
+0,T2,1,2010,DIN in runoff,Measured,7.325464,Corrected data
+0,T1,1,2010,DIN in runoff,Simulated,13.419,Corrected data
+0,T2,1,2010,DIN in runoff,Simulated,9.305,Corrected data
